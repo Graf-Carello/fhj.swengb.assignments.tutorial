@@ -1,4 +1,4 @@
-package fhj.swengb.assignments.tutorial.GrafCarello
+package fhj.swengb.assignments.tutorial.fgraf
 
 import org.junit.Assert._
 import org.junit.Test
